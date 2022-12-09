@@ -21,7 +21,7 @@ iOS Developer 🍎
 
 
 ### Education 🏫
-- Sookmyung Women's University (2019.03~)
+- Sookmyung Women's University, Computer Science (2019.03~)
 - 42 Seoul 7th Cardet (2022.07~)
 
 

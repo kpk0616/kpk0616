@@ -19,8 +19,8 @@
 
 
 ### Activity 🔥
-- IT 연합 창업동아리 [SOPT](https://sopt.org) 31st, iOS (2022.10~)
-- 2022 Open Source Contribution Academy, [OSSCA](https://www.contribution.ac), Uftrace (2022.07~2022.11)
+- IT 연합 창업동아리 [SOPT](https://sopt.org) 31st - iOS (2022.10~)
+- 2022 Open Source Contribution Academy, [OSSCA](https://www.contribution.ac) - Uftrace (2022.07~2022.11)
 - IT 연합 창업동아리 [CampusTaxi](https://campustaxi.modoo.at) (2021.08~2021.12)
 
 

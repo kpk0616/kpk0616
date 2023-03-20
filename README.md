@@ -25,8 +25,9 @@
 
 
 ### Education 🏫
+- Apple Developer Academy @ POSTECH 2nd (2022.03~)
+- [42 Seoul](https://42seoul.kr/seoul42/main/view) 7th Cardet (2022.07~2023.03)
 - Sookmyung Women's University, Computer Science (2019.03~)
-- [42 Seoul](https://42seoul.kr/seoul42/main/view) 7th Cardet (2022.07~)  
 
 
 

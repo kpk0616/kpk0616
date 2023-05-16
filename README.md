@@ -19,14 +19,14 @@
 
 
 ### Activity 🔥
-- 2023 WWDC Student Challenge Winner - [Gestalt](https://github.com/kpk0616/Gestalt)
+- 2023 [WWDC Student Challenge](https://developer.apple.com/wwdc23/swift-student-challenge/) Winner - [Gestalt](https://github.com/kpk0616/Gestalt)
 - IT 연합 창업동아리 [SOPT](https://sopt.org) 31st - iOS (2022.10~)
 - 2022 Open Source Contribution Academy, [OSSCA](https://www.contribution.ac) - Uftrace (2022.07~2022.11)
 - IT 연합 창업동아리 [CampusTaxi](https://campustaxi.modoo.at) (2021.08~2021.12)
 
 
 ### Education 🏫
-- [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/en/) 2nd (2022.03~)
+- [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/en/) 2nd (2023.03~)
 - [42 Seoul](https://42seoul.kr/seoul42/main/view) 7th Cardet (2022.07~2023.03)
 - Sookmyung Women's University, Computer Science (2019.03~)
 

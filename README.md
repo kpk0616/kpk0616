@@ -30,6 +30,8 @@
 - [42 Seoul](https://42seoul.kr/seoul42/main/view) 7th Cardet (2022.07~2023.03)
 - Sookmyung Women's University, Computer Science (2019.03~)
 
+### Awards 🏆
+- 경상북도 공공데이터 활용 관광활성화 아이디어 공모전 | 대상 (2023.08.01)
 
 
 <!--START_SECTION:waka-->

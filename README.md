@@ -31,8 +31,10 @@
 - Sookmyung Women's University, Computer Science (2019.03~)
 
 ### Awards 🏆
-- 경상북도 공공데이터 활용 관광활성화 아이디어 공모전 | 대상 (2023.08.01)
-
+- 경상북도 공공데이터 활용 관광활성화 아이디어 공모전 | 팀 안전지대, 대상 (2023.08.01)
+- SOPT 31st APPJAM | [Keyneez](https://github.com/Keyneez/Keyneez-iOS), 대상 (2023.01.14)
+- 2022 Open Source Contribution Academy, OSSCA | [Uftrace](https://drive.google.com/file/d/1xtyYCNIAmietRQLAxcOnJPsy-0e2dwlT/view?usp=share_link), 장려상 (2022.12.06)
+- SOPT 31st 해커톤 | [라이푸다이어리](https://github.com/SOPT-31st-SOPKATHON-12), 최우수상 및 인기상 (2022.11.20)
 
 <!--START_SECTION:waka-->
 

@@ -31,6 +31,7 @@
 - Sookmyung Women's University, Computer Science (2019.03~)
 
 ### Awards 🏆
+- 2023년도 장애인 분야 해커톤 대회 메이커톤 | [팀 안전지대](https://www.ablenews.co.kr/news/articleView.html?idxno=208330), 한국장애인재단 이사장상
 - 경상북도 공공데이터 활용 관광활성화 아이디어 공모전 | [팀 안전지대](http://www.kyongbuk.co.kr/news/articleView.html?idxno=2138436), 대상 (2023.08.01)
 - SOPT 31st APPJAM | [Keyneez](https://github.com/Keyneez/Keyneez-iOS), 대상 (2023.01.14)
 - 2022 Open Source Contribution Academy, OSSCA | [Uftrace](https://www.youtube.com/watch?v=RfgJuWulpJA), 장려상 (2022.12.06)

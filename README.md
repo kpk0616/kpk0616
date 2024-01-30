@@ -15,7 +15,7 @@
 
 ### Email & Blog 🏡
 
-[kpk0616@naver.com](mailto:kpk0616@naver.com) | [Instagram](https://www.instagram.com/west_of_park/) | [Velog](https://velog.io/@_kpk0616) | [Notion](https://www.notion.so/Archive-30f746a4e1dd43d4acde4f7beb9a8812)
+[kpk0616@naver.com](mailto:kpk0616@naver.com) | [Notion](https://www.notion.so/Archive-30f746a4e1dd43d4acde4f7beb9a8812)
 
 
 ### Activity 🔥
